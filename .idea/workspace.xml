@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a6acb9-252f-4ca1-a62b-af8cb46c80a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/potoware/lambda/models/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lambda/com/potoware/lambda/EjemploConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lambda/com/potoware/lambda/EjemploConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EjemploFunction">
     <configuration name="EjemploConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.potoware.lambda.EjemploConsumer" />
       <module name="lambda" />
@@ -47,8 +46,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.potoware.lambda.EjemploFunction" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.potoware.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploFunction" />
         <item itemvalue="Application.EjemploConsumer" />
       </list>
     </recent_temporary>
