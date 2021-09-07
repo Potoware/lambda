@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a6acb9-252f-4ca1-a62b-af8cb46c80a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/potoware/lambda/models/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lambda/com/potoware/lambda/EjemploConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lambda/com/potoware/lambda/EjemploConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/potoware/lambda/EjemploConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
